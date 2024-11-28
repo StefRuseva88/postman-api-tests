@@ -76,9 +76,6 @@ The **Trello API** allows you to interact with your Trello boards programmatical
 - Foody API Postman Collection
 - Revue Crafters API Postman Collection
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
